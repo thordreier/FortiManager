@@ -1,0 +1,7 @@
+[
+    {
+        "TargetName":  "FortiManager",
+        "Type":  "Module",
+        "VersionAppendDate":  true
+    }
+]
